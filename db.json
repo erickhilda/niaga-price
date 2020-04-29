@@ -18,7 +18,7 @@
       "name_server": "",
       "mail_protection": "",
       "support_service": "",
-      "is_best_seller": ""
+      "is_best_seller": false
     },
     { 
       "id": 2,
@@ -38,7 +38,7 @@
       "name_server": "",
       "mail_protection": "",
       "support_service": "",
-      "is_best_seller": ""
+      "is_best_seller": false
     },
     { 
       "id": 3,
@@ -78,7 +78,7 @@
       "name_server": "Private",
       "mail_protection": "SpamExpert",
       "support_service": "5",
-      "is_best_seller": ""
+      "is_best_seller": false
     }
   ]
 }
