@@ -58,7 +58,7 @@
       "name_server": "Private",
       "mail_protection": "SpamAssasin",
       "support_service": "",
-      "is_best_seller": ""
+      "is_best_seller": true
     },
     { 
       "id": 4,
