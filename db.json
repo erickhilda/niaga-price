@@ -1,14 +1,84 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "package": [
+    { 
+      "id": 1,
+      "package_name": "Bayi",
+      "real_price": "19900",
+      "discount": "14900",
+      "customer_count": "938",
+      "resource_power": "0.5X",
+      "disk_space": "500 MB",
+      "bandwidth": "unlimited",
+      "database": "Unlimited",
+      "addon_domain": "1",
+      "backup": "Instant",
+      "ssl": "Unlimited SSL",
+      "email": "",
+      "free_domain": "",
+      "name_server": "",
+      "mail_protection": "",
+      "support_service": "",
+      "is_best_seller": ""
+    },
+    { 
+      "id": 2,
+      "package_name": "Pelajar",
+      "real_price": "46900",
+      "discount": "23450",
+      "customer_count": "4168",
+      "resource_power": "1X",
+      "disk_space": "Unlimited",
+      "bandwidth": "unlimited",
+      "database": "Unlimited",
+      "addon_domain": "10",
+      "backup": "Instant",
+      "ssl": "Unlimited SSL",
+      "email": "Unlimited",
+      "free_domain": "Domain Gratis",
+      "name_server": "",
+      "mail_protection": "",
+      "support_service": "",
+      "is_best_seller": ""
+    },
+    { 
+      "id": 3,
+      "package_name": "Personal",
+      "real_price": "58900",
+      "discount": "38900",
+      "customer_count": "10017",
+      "resource_power": "2X",
+      "disk_space": "Unlimited",
+      "bandwidth": "unlimited",
+      "database": "Unlimited",
+      "addon_domain": "Unlimited",
+      "backup": "Instant",
+      "ssl": "Unlimited SSL",
+      "email": "Unlimited",
+      "free_domain": "Domain Gratis",
+      "name_server": "Private",
+      "mail_protection": "SpamAssasin",
+      "support_service": "",
+      "is_best_seller": ""
+    },
+    { 
+      "id": 4,
+      "package_name": "Personal",
+      "real_price": "109900",
+      "discount": "65900",
+      "customer_count": "3552",
+      "resource_power": "3X",
+      "disk_space": "Unlimited",
+      "bandwidth": "unlimited",
+      "database": "Unlimited",
+      "addon_domain": "Unlimited",
+      "backup": "Magic Auto",
+      "ssl": "Unlimited SSL",
+      "email": "Unlimited",
+      "free_domain": "Domain Gratis",
+      "name_server": "Private",
+      "mail_protection": "SpamExpert",
+      "support_service": "5",
+      "is_best_seller": ""
+    }
+  ]
 }
